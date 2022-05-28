@@ -9,9 +9,9 @@ let handler = async (m, { conn }) => {
     let uptime = clockString(_uptime)
 
     let str = `
-┌─〔 Info astro bot 〕
-│Name bot: astro bot
-│Main Owner: bagus ganz
+┌─〔 Info faxt bot 〕
+│Name bot: faxt bot
+│Main Owner: ridho
 │Operated Since: 1 mei 2022
 │Language Used: Nodejs (JS)
 │Server: Heroku
